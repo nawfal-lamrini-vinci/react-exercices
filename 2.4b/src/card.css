@@ -1,0 +1,22 @@
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 50%;
+}
+
+.card h3 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.online {
+  color: rgb(95, 189, 95);
+}
+
+.offline {
+  color: red;
+}
