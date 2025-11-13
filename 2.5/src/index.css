@@ -1,0 +1,11 @@
+.div-counter {
+  display: flex;
+  border: 1px solid black;
+  width: 100px;
+  cursor: pointer;
+  background-color: #f5f1f1;
+}
+
+.div-counter p {
+  margin: 10px;
+}
